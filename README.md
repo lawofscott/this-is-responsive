@@ -11,3 +11,4 @@ Patterns, resources and news for creating responsive web experiences.
 [2]: http://bradfrostweb.com/blog/web/this-is-responsive/
 [3]: https://twitter.com/brad_frost
 [4]: https://github.com/bradfrost/this-is-responsive/blob/gh-pages/CONTRIBUTING.md
+Scott is Awesome!
